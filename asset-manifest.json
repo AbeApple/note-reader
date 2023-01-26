@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.d8eb9d35.css",
-    "main.js": "/static/js/main.34be4387.js",
-    "static/media/cubeField.gif": "/static/media/cubeField.b65b556adc5134b62cf9.gif",
-    "static/media/accountIcon.png": "/static/media/accountIcon.9e2b5a547e91143360e0.png",
-    "index.html": "/index.html",
-    "main.d8eb9d35.css.map": "/static/css/main.d8eb9d35.css.map",
-    "main.34be4387.js.map": "/static/js/main.34be4387.js.map"
+    "main.css": "/note-reader/static/css/main.aae86111.css",
+    "main.js": "/note-reader/static/js/main.96af0a94.js",
+    "static/media/cubeField.gif": "/note-reader/static/media/cubeField.b65b556adc5134b62cf9.gif",
+    "static/media/accountIcon.png": "/note-reader/static/media/accountIcon.9e2b5a547e91143360e0.png",
+    "index.html": "/note-reader/index.html",
+    "main.aae86111.css.map": "/note-reader/static/css/main.aae86111.css.map",
+    "main.96af0a94.js.map": "/note-reader/static/js/main.96af0a94.js.map"
   },
   "entrypoints": [
-    "static/css/main.d8eb9d35.css",
-    "static/js/main.34be4387.js"
+    "static/css/main.aae86111.css",
+    "static/js/main.96af0a94.js"
   ]
 }
