@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/note-reader/static/css/main.8c394331.css",
-    "main.js": "/note-reader/static/js/main.b40e999b.js",
+    "main.css": "/note-reader/static/css/main.2a056f6f.css",
+    "main.js": "/note-reader/static/js/main.29bb622e.js",
     "static/media/cubeField.gif": "/note-reader/static/media/cubeField.b65b556adc5134b62cf9.gif",
     "static/media/accountIcon.png": "/note-reader/static/media/accountIcon.9e2b5a547e91143360e0.png",
     "index.html": "/note-reader/index.html",
-    "main.8c394331.css.map": "/note-reader/static/css/main.8c394331.css.map",
-    "main.b40e999b.js.map": "/note-reader/static/js/main.b40e999b.js.map"
+    "main.2a056f6f.css.map": "/note-reader/static/css/main.2a056f6f.css.map",
+    "main.29bb622e.js.map": "/note-reader/static/js/main.29bb622e.js.map"
   },
   "entrypoints": [
-    "static/css/main.8c394331.css",
-    "static/js/main.b40e999b.js"
+    "static/css/main.2a056f6f.css",
+    "static/js/main.29bb622e.js"
   ]
 }
