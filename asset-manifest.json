@@ -1,15 +1,19 @@
 {
   "files": {
-    "main.css": "/note-reader/static/css/main.dbfc890f.css",
-    "main.js": "/note-reader/static/js/main.1802ab94.js",
+    "main.css": "/note-reader/static/css/main.5f2f0096.css",
+    "main.js": "/note-reader/static/js/main.078c568d.js",
     "static/media/cubeField.gif": "/note-reader/static/media/cubeField.b65b556adc5134b62cf9.gif",
+    "static/media/folderIcon2.png": "/note-reader/static/media/folderIcon2.2bdb922182e3af88184a.png",
+    "static/media/settingsIconS.png": "/note-reader/static/media/settingsIconS.4927c14c5a7f391bb098.png",
+    "static/media/playIconS.png": "/note-reader/static/media/playIconS.6e21232f6860668a166b.png",
+    "static/media/editIconS.png": "/note-reader/static/media/editIconS.bd62a5c83ae6ec505199.png",
     "static/media/accountIcon.png": "/note-reader/static/media/accountIcon.9e2b5a547e91143360e0.png",
     "index.html": "/note-reader/index.html",
-    "main.dbfc890f.css.map": "/note-reader/static/css/main.dbfc890f.css.map",
-    "main.1802ab94.js.map": "/note-reader/static/js/main.1802ab94.js.map"
+    "main.5f2f0096.css.map": "/note-reader/static/css/main.5f2f0096.css.map",
+    "main.078c568d.js.map": "/note-reader/static/js/main.078c568d.js.map"
   },
   "entrypoints": [
-    "static/css/main.dbfc890f.css",
-    "static/js/main.1802ab94.js"
+    "static/css/main.5f2f0096.css",
+    "static/js/main.078c568d.js"
   ]
 }
