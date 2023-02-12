@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/note-reader/static/css/main.5ff63c02.css",
-    "main.js": "/note-reader/static/js/main.24c59bbe.js",
+    "main.css": "/note-reader/static/css/main.0011b2eb.css",
+    "main.js": "/note-reader/static/js/main.68eb551f.js",
     "static/media/cubeField.gif": "/note-reader/static/media/cubeField.b65b556adc5134b62cf9.gif",
     "static/media/folderIcon2.png": "/note-reader/static/media/folderIcon2.2bdb922182e3af88184a.png",
     "static/media/settingsIconS.png": "/note-reader/static/media/settingsIconS.4927c14c5a7f391bb098.png",
@@ -9,11 +9,11 @@
     "static/media/editIconS.png": "/note-reader/static/media/editIconS.bd62a5c83ae6ec505199.png",
     "static/media/accountIcon.png": "/note-reader/static/media/accountIcon.9e2b5a547e91143360e0.png",
     "index.html": "/note-reader/index.html",
-    "main.5ff63c02.css.map": "/note-reader/static/css/main.5ff63c02.css.map",
-    "main.24c59bbe.js.map": "/note-reader/static/js/main.24c59bbe.js.map"
+    "main.0011b2eb.css.map": "/note-reader/static/css/main.0011b2eb.css.map",
+    "main.68eb551f.js.map": "/note-reader/static/js/main.68eb551f.js.map"
   },
   "entrypoints": [
-    "static/css/main.5ff63c02.css",
-    "static/js/main.24c59bbe.js"
+    "static/css/main.0011b2eb.css",
+    "static/js/main.68eb551f.js"
   ]
 }
